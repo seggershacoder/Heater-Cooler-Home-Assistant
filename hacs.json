@@ -1,0 +1,6 @@
+{
+  "name": "Heater Cooler Card",
+  "filename": "heater-cooler-card.js",
+  "render_readme": true,
+  "homeassistant": "2024.8.0"
+}
