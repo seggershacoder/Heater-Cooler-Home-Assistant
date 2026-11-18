@@ -28,6 +28,12 @@ A round wall-thermostat card for Home Assistant. A knurled metal bezel, a dark d
 - **English and German**, following your Home Assistant language.
 - **Visual editor**, follows the `prefers-reduced-motion` setting, no dependencies.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seggershacoder/Heater-Cooler-Home-Assistant/main/images/features.png" width="900" alt="Left: confirmation before switching the whole house to cooling. Middle: a thermostat turned off. Right: an air conditioner with the German interface and the room name inside the display">
+</p>
+
+<p align="center"><sub>Confirm before switching · Turned off · German interface with the name inside the display</sub></p>
+
 ## Installation
 
 ### HACS
