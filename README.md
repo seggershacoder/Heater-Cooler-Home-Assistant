@@ -8,6 +8,12 @@
 
 A round wall-thermostat card for Home Assistant. A knurled metal bezel, a dark display and a target arc you can drag. While the room heats, a fire burns in the display; while it cools, cold wind and snowflakes blow through it. Power on/off and switching between heating and cooling are built in.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seggershacoder/Heater-Cooler-Home-Assistant/main/images/heater-cooler-card.gif" width="900" alt="Three Heater Cooler dials: heating with a burning fire, cooling with cold wind and snowflakes, and idle">
+</p>
+
+<p align="center"><sub>Heating · Cooling · Idle</sub></p>
+
 ## Features
 
 - **Dial control:** drag the knob around the arc, or use − / +. The value is sent once you let go, not on every step.
@@ -100,6 +106,10 @@ The colours come from CSS variables you can override with card-mod or a theme: `
 ## Deutsch
 
 Ein runder Wandregler für Home Assistant: gerändelter Metallring, dunkles Display und ein Bogen für die Soll-Temperatur, den du mit dem Finger ziehst. Beim Heizen brennt im Display ein Feuer, beim Kühlen ziehen kalte Windböen mit Schneeflocken durch. An/Aus und die Umschaltung zwischen Heizen und Kühlen sind eingebaut.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/seggershacoder/Heater-Cooler-Home-Assistant/main/images/heater-cooler-card.png" width="900" alt="Heater Cooler Card: Heizen, Kühlen und Leerlauf">
+</p>
 
 **Installation:** HACS → ⋮ → **Benutzerdefinierte Repositories** → `https://github.com/seggershacoder/Heater-Cooler-Home-Assistant` mit der Kategorie **Dashboard** hinzufügen, **Heater Cooler Card** herunterladen und den Browser neu laden.
 
